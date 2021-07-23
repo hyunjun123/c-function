@@ -69,7 +69,7 @@ int main(void)
 
 
 
-
-
-
 }
+
+
+printf("집에서만 하기");
